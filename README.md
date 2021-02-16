@@ -1,2 +1,2 @@
 # Digit-Recognition
-CNN to classify the MNIST database. Upto 99.4% test accuracy
+CNN with less than 9k parameters to classify the MNIST database. Upto 99.4% test accuracy
